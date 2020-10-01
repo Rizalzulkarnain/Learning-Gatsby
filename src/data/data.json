@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7,
+    "title": "Intro to React",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 8,
+    "title": "Basic Styling in React",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 9,
+    "title": "Adaptive Layout with CSS Grid",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 10,
+    "title": "Interaction and Animations",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 11,
+    "title": "SVG Animations",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 12,
+    "title": "Components and Props",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 13,
+    "title": "States and Events",
+    "imageCourse": "../images/logo-react.png"
+  },
+  {
+    "id": 14,
+    "title": "Styled Components",
+    "imageCourse": "../images/logo-react.png"
+  }
+]

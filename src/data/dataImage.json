@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "imageLogo": "../images/logo-figma.png"
+  },
+  {
+    "id": 2,
+    "imageLogo": "../images/logo-framer.png"
+  },
+  {
+    "id": 3,
+    "imageLogo": "../images/logo-react.png"
+  },
+  {
+    "id": 4,
+    "imageLogo": "../images/logo-sketch.png"
+  },
+  {
+    "id": 5,
+    "imageLogo": "../images/logo-studio.png"
+  },
+  {
+    "id": 6,
+    "imageLogo": "../images/logo-swift.png"
+  }
+]
